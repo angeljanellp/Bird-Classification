@@ -1,6 +1,6 @@
-# Bird-Classification
+# Bird-Classification :bird:
 
-Goal: Create a image classification model with a 85% or higher accuracy. Animal chosen: bird.
+Goal: Create a image classification model with a 85% or higher accuracy. Animal chosen: bird :bird:.
 
 Dataset: Bird Species dataset from Kaggle.
 
